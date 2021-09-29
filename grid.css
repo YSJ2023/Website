@@ -1,0 +1,17 @@
+#grid{
+  border: 1px gray solid;
+  display:grid;
+  grid-template-columns: 1fr 2fr 1fr;
+  }
+  div{
+    border:3px pink solid;
+    padding:10px;
+  }
+  ol {
+    padding-left: auto;
+    padding-right: auto;
+    width: 8em;
+  }
+  h1{
+    text-align: center;
+  }
